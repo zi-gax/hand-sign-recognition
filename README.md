@@ -50,7 +50,7 @@ hand-sign-recognition/
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/hand-sign-recognition.git
+git clone https://github.com/zi-gax/hand-sign-recognition.git
 cd hand-sign-recognition
 
 # Create virtual environment
