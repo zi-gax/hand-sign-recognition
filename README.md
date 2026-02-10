@@ -1,7 +1,6 @@
 # ✋ Hand Sign Recognition (Real-Time)
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 A **real-time hand sign recognition system** built with **MediaPipe**, **OpenCV**, and **scikit-learn**.  
 Supports left/right hand normalization, dataset augmentation through mirroring, and fast inference using a pre-trained KNN model.
@@ -139,13 +138,6 @@ Includes:
 - KNN neighbors  
 - Prediction smoothing history  
 - File paths  
-
----
-
-## 📜 License
-
-MIT License  
-Free to use, modify, and distribute.
 
 ---
 
